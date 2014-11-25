@@ -1,0 +1,15 @@
+body{
+	/*overflow:hidden;*/
+	margin:0px;
+}
+
+.header{
+	background-color:blue;
+	height:100px;
+}
+
+.content{
+	background-color:black;
+	color:white;
+	text-align:center;
+}
